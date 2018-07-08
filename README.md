@@ -2,7 +2,7 @@
 
 Uni WC Hub Application is a client-side web application built in [React](https://reactjs.org/). Its main purpose is to connect to [Uni WC Hub server-side app](https://github.com/moomoo-agency/uni-wc-hub-app-server) and display the sales reports from connected WooCommerce based online stores.
 
-![](https://moomoo.agency/wp-content/uploads/2018/07/uni-wc-hub-app-sales-chart.jpg)
+[![Sales report](https://moomoo.agency/wp-content/uploads/2018/07/uni-wc-hub-app-sales-report.png)](https://www.youtube.com/watch?v=c4oNnKuYeR0)
 
 ## Developing
 
@@ -33,11 +33,3 @@ Values like "furniture" and "printing" are unique ids of sites. The same you pro
 ## Application design
 
 The visual appearance is minimal
-
-### Screenshots
-
-![](https://moomoo.agency/wp-content/uploads/2018/07/uni-wc-hub-app-home-page.jpg)
-![](https://moomoo.agency/wp-content/uploads/2018/07/uni-wc-hub-app-login-page.jpg)
-![](https://moomoo.agency/wp-content/uploads/2018/07/uni-wc-hub-app-sales-page.jpg)
-![](https://moomoo.agency/wp-content/uploads/2018/07/uni-wc-hub-app-sales-selecting-period.jpg)
-![](https://moomoo.agency/wp-content/uploads/2018/07/uni-wc-hub-app-sales-chart.jpg)
