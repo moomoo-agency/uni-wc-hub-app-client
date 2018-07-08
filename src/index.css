@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Lato');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-weight:400;
+}
+
+h1,h2,h3,
+.gloria-font {
+    font-family: 'Gloria Hallelujah', cursive !important;
+}
+
+.rt-tbody .rt-td {
+    text-align: center;
+    font-size: 14px;
+}
+
+.days-left-0 {
+    background-color: #f2f2f2;
+}
+.days-left-1 {
+    background-color: #f59b83;
+}
+.days-left-2 {
+    background-color: #ffb400;
+}
+.days-left-3 {
+    background-color: #68cced;
+}
+.days-left-4 {
+    background-color: #4ccf4c;
+}
+
+.DayPickerInput input {
+    padding: 5px;
+    font-size: 14px;
+    width: 120px;
+    font-family: 'Gloria Hallelujah', cursive;
+    line-height: 26px;
+}
